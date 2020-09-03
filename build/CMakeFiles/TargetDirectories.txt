@@ -1,3 +1,0 @@
-D:/San Pablo/Semestre 2020-2/Estructuras de Datos Avanzadas/Clase_1_Septiembre/build/CMakeFiles/course_dimensionality.dir
-D:/San Pablo/Semestre 2020-2/Estructuras de Datos Avanzadas/Clase_1_Septiembre/build/CMakeFiles/ALL_BUILD.dir
-D:/San Pablo/Semestre 2020-2/Estructuras de Datos Avanzadas/Clase_1_Septiembre/build/CMakeFiles/ZERO_CHECK.dir
