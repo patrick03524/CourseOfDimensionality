@@ -36,7 +36,7 @@ a6 ->[(0,2,2),(2,4,4)] -> Cuadrante "6"
 
 a7 ->[(2,2,2),(4,4,4)] -> Cuadrante "7"
 
-![Alt text](https://github.com/patrick03524/CourseOfDimensionality/blob/master/Laboratorio%20OctTree/Source/Imgs/cubo_sin_fondo.png = 100x)
+![Alt text](https://github.com/patrick03524/CourseOfDimensionality/blob/master/Laboratorio%20OctTree/Source/Imgs/cubo_sin_fondo.png)
 
 Cada zona tiene un color diferente y en primer lugar se organizaron 8 octantes desde a0,a1,a2,...a7 
 
